@@ -4,12 +4,13 @@ Este é um projeto de portfólio pessoal desenvolvido em **React** com **Vite**.
 
 # Tecnologias Utilizadas
 
-- [React](https://reactjs.org/) – Biblioteca JavaScript para interfaces.
-- [Vite](https://vitejs.dev/) – Empacotador moderno e rápido.
-- [Redux](https://redux.js.org/) – Gerenciamento de estado global.
-- [Framer Motion](https://www.framer.com/motion/) – Animações suaves com React.
-- [React Redux](https://react-redux.js.org/) – Integração entre React e Redux.
-- [JavaScript (ES6+)] – Linguagem base do projeto.
+- [React](https://reactjs.org/) – Biblioteca JavaScript para construção de interfaces de usuário.
+- [Vite](https://vitejs.dev/) – Empacotador moderno e rápido para projetos front-end.
+- [Redux](https://redux.js.org/) – Gerenciamento de estado global da aplicação.
+- [React Redux](https://react-redux.js.org/) – Integração oficial entre React e Redux.
+- [Framer Motion](https://www.framer.com/motion/) – Biblioteca para animações suaves em componentes React.
+- [Tailwind CSS](https://tailwindcss.com/) – Framework utilitário para estilização rápida e responsiva.
+- [JavaScript (ES6+)] – Linguagem principal utilizada no desenvolvimento.
 
 ## Estrutura de Diretórios
 
