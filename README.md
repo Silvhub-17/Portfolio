@@ -32,7 +32,7 @@ Este é um projeto de portfólio pessoal desenvolvido em **React** com **Vite**.
 ├───App.jsx
 └───index.css
 └───main.jsx
-```bash
+```
 
 ## Funcionalidades
 
@@ -52,20 +52,20 @@ Este é um projeto de portfólio pessoal desenvolvido em **React** com **Vite**.
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-```bash
+```
 
 ### Instale as dependências:
 
 ```bash
 npm install
-```bash
+```
 
 ### Inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
 Acesse em: http://localhost:5173
-```bash
+```
 
 ## Scripts Disponíveis
 npm run dev: inicia o projeto em modo de desenvolvimento.
@@ -75,7 +75,7 @@ npm run dev: inicia o projeto em modo de desenvolvimento.
 Silvano Rodrigues
 Estudante de Engenharia Informática
 Desenvolvedor Frontend apaixonado por interfaces modernas e experiências interativas.
-```bash
+```
 
 # Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
